@@ -19,4 +19,3 @@ mongoose.connect(DB_URL,{useNewUrlParser: true, useUnifiedTopology: true }).then
 }).catch((error)=>{
     console.log(error)
 })
-console.log(error)
